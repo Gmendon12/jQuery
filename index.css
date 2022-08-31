@@ -1,0 +1,44 @@
+#button1{
+    height: 50px;
+    width: 100px;
+    background-color: blue;
+    color: white;
+    border-radius: 5px;
+}
+
+#button2{
+    height: 50px;
+    width: 100px;
+    background-color: blue;
+    color: white;
+    border-radius: 5px;
+    margin-left: 20px;
+}
+
+.button3{
+    height: 50px;
+    width: 100px;
+    background-color: blue;
+    color: white;
+    border-radius: 5px;
+    margin-left: 20px; 
+}
+
+p{
+    font-size: 25px;
+}
+
+#button1:hover{
+     transition: all;
+     translate: -1px -1px;
+}
+
+#button2:hover{
+    transition: all;
+    translate: -1px -1px;
+}
+
+.button3:hover{
+    transition: all;
+    translate: -1px -1px;
+}
